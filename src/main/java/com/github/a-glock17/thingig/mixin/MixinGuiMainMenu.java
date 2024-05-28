@@ -1,4 +1,4 @@
-package com.example.mixin;
+package com.github.a-glock17.thingig.mixin;
 
 import net.minecraft.client.gui.GuiMainMenu;
 import org.spongepowered.asm.mixin.Mixin;
